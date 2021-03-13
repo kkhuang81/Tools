@@ -11,6 +11,14 @@ Some useful tools to process graph files.
 
 
 
+### Compile requirement
+
+**dependency**: sftm folder
+
+**command**: g++ pw_ic.cpp -O3 sfmt/SFMT.c -o pwic
+
+
+
 ### Input requirement
 
 Dataset file
